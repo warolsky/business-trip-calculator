@@ -1,8 +1,7 @@
-package com.karwil.businesstripcalculator.controller;
+package com.karwil.businesstripcalculator.api.controller;
 
-import com.karwil.businesstripcalculator.model.BusinessTrip;
-import com.karwil.businesstripcalculator.service.BusinessTripService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.karwil.businesstripcalculator.api.model.BusinessTrip;
+import com.karwil.businesstripcalculator.api.service.BusinessTripService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

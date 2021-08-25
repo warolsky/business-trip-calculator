@@ -1,4 +1,4 @@
-package com.karwil.businesstripcalculator.model;
+package com.karwil.businesstripcalculator.api.model;
 
 import javax.persistence.*;
 
@@ -54,4 +54,5 @@ public class Expense {
     public Date getDate() {
         return date;
     }
+
 }

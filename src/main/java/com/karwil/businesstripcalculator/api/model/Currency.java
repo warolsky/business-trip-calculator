@@ -1,4 +1,4 @@
-package com.karwil.businesstripcalculator.model;
+package com.karwil.businesstripcalculator.api.model;
 
 public enum Currency {
 
