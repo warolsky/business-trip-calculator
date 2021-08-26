@@ -24,7 +24,7 @@ public class Expense {
     @Temporal(TemporalType.DATE)
     private Date date;
 
-    private Currency currency;
+    private String currency;
 
     public Expense() {
     }
